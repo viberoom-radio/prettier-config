@@ -1,6 +1,6 @@
 {
   "name": "@viberoom/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared formatting settings",
   "main": "./prettier-config.js",
   "scripts": {
