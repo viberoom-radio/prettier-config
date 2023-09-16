@@ -1,0 +1,17 @@
+{
+  "name": "@viberoom/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared formatting settings",
+  "main": "./prettier-config.js",
+  "scripts": {
+    "publish": "npm publish --access=public"
+  },
+  "author": "Konstantin Zhitkov <zhitkovkostya@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.0.3"
+  },
+  "peerDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
